@@ -1,0 +1,13 @@
+% Starter Library %
+% Provides a bunch of procedures for ease of access %
+
+% This procedure prints the values until a terminator is reached, using roll %
+    @printr > . #0 printr ~ }
+    % Ex. '72 101 108 108 111 0 printr' --> 'Hello' %
+
+% This procedure takes in input until a terminator is reached, using roll %
+    @input ? #0 input > }
+
+% This procedure calculates the factorial of a number %
+    @factorial { : 1 - #1 factorial * }
+    % Ex. '5 factorial !' --> '120' %
