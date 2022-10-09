@@ -78,3 +78,4 @@ For more examples and trick see the sl.solo file, which contains useful procedur
 If you have any questions, you can contact me here:
 - Twitter: @ChimneyEggs
 - Gmail: chimneysandeggs@gmail.com
+- Discord : ChimneyEggs#4663
