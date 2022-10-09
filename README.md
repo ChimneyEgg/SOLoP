@@ -73,7 +73,7 @@ Conditionals are denoted as such:
 ```
 As such, depending on if the conditional evaluates to true, the next command will/will not be executed
 
-For more examples and trick see the sl.solo file, which contains useful procedures
+For more examples and trick see the **example.solo** file, which contains useful procedures
 ## Socials
 If you have any questions, you can contact me here:
 - Twitter: @ChimneyEggs
